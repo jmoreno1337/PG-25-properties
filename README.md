@@ -1,0 +1,1 @@
+# PG-25-properties
